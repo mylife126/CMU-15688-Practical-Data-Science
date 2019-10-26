@@ -1,0 +1,6 @@
+jupyter
+pandas
+pysqlite3-binary
+matplotlib
+gmaps
+-e git+https://github.com/gauravmm/jupyter-testing.git#egg=jupyter-testing
